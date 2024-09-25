@@ -9,6 +9,7 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=setografi&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)
+<img src="https://via.placeholder.com/1x50" alt="" /><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=setografi&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=setografi&theme=graywhite&hide_border=false)
 
