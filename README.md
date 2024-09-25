@@ -8,6 +8,7 @@
 
 ### 📊 GitHub Stats:
 https://pixel-profile-ui.vercel.app/api/github-stats?username=Setografi&screen_effect=true&include_all_commits=true&pixelate_avatar=true&background=linear-gradient%280deg%2C+%239babb2FF+0%25%2C+%23ffffffFF+100%25%29+&color=%232e222fFF
+
 <br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=setografi&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=setografi&theme=graywhite&hide_border=false)
 
