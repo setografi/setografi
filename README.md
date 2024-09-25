@@ -1,10 +1,3 @@
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<username>&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=summer">
-</picture>
-
-
 <h1 align="left">Hi, I'm Wahyu Seto Pranata</h1>
 <h3 align="left">💬 A unique creative designer and developer who spends much of his free time drinking coffee and traveling. I like learning new things and trying to apply them.</h3>
 
