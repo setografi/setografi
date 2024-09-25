@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Wahyu Seto Pranata</h1>
 <h3 align="left">💬 A unique creative designer and developer who spends much of his free time drinking coffee and traveling. I like learning new things and trying to apply them.</h3>
-<br/>
+
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/setografi) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Wahyu-Seto) 
 
