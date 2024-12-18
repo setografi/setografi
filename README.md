@@ -22,5 +22,5 @@ Yeah, even though I'm like this, I'm a Frontend Developer.
 
 ![setografi github-stats](https://stats.dooboo.io/api/github-stats?login=setografi)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=setografi&theme=default&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=setografi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![setografi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=setografi&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=setografi&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
