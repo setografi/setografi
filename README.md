@@ -1,6 +1,8 @@
 Once upon a time, in a world full of endless possibilities, there was someone who found happiness in simple things: **enjoying coffee ☕**, **sleeping 💤**, and experiencing the thrill of trying something new 🌱.
 
-Some might say, "There's nothing special about them." But that's exactly what makes them interesting. And hi, I'm **Seto**. I'm here to explore new things, play with ideas, and leave my mark in the digital world.
+Some might say, "There's nothing special about them." But that's exactly what makes them interesting. 
+
+And hi, I'm **Seto**. I'm here to explore new things, play with ideas, and leave my mark in the digital world.
 
 ---
 
