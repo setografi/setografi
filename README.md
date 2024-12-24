@@ -1,4 +1,4 @@
-Once upon a time, in a world full of endless possibilities, there was someone who found happiness in simple things: **enjoying coffee ☕**, **sleeping 💤**, and experiencing the thrill of trying something new 🌱.
+Once upon a time, in a world full of endless possibilities, there was someone who found happiness in simple things: **enjoying coffee ☕**, **sleeping 💤**, and experiencing the thrill of **trying something new** 🌱.
 
 Some might say, "There's nothing special about them." But that's exactly what makes them interesting. 
 
